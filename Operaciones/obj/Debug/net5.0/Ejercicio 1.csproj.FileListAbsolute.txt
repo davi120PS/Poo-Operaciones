@@ -1,0 +1,16 @@
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.csproj.AssemblyReference.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.AssemblyInfoInputs.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.AssemblyInfo.cs
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.exe
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.deps.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.dev.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\bin\Debug\net5.0\Ejercicio 1.pdb
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\refint\Ejercicio 1.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.pdb
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\Ejercicio 1.genruntimeconfig.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Operaciones\Operaciones\obj\Debug\net5.0\ref\Ejercicio 1.dll

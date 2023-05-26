@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0xlebDOovpgDtlHDJ6ICcZfpsE7IGgaLi6GhHuL6LC1eS340ROx6ejUYbtyU5lt2VqBKGx8/NFCCIiHdODWIA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\UPQROO\\Cuatrimestre-3\\Programacion Visual\\Operaciones\\Operaciones\\Ejercicio 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
